@@ -3,9 +3,9 @@
 - 🌱 Estou estudando Java
 
 <div align="center">
-  <a href="https://github.com/alexandre-ia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-ia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-ia&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/alexandrepereira23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrepereira23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrepereira23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
