@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de **Ciência da Computação**.
 - 🌱 Atualmente focando meus estudos e projetos em **Java**.
-- 💡 Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software.
 - 🚀 Sempre em busca de aprender novas ferramentas e aprimorar minha lógica de programação.
 
 ---
