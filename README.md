@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**.
-- 🌱 Atualmente focando meus estudos e projetos em **Java**.
+- 🌱 Atualmente meus estudos e projetos estão focados no **BACKEND**.
 - 🚀 Sempre em busca de aprender novas ferramentas e aprimorar minha lógica de programação.
 
 ---
