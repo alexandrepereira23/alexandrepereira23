@@ -1,40 +1,68 @@
-# Olá, eu sou o Alexandre Henrique! 👋
+# 👋 Olá, eu sou o Alexandre Henrique
 
-### 👨‍💻 Sobre mim
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor **Fullstack**
 
-- 🎓 Estudante de **Ciência da Computação**.
-- 🌱 Atualmente meus estudos e projetos estão focados no **BACKEND**.
-- 🚀 Sempre em busca de aprender novas ferramentas e aprimorar minha lógica de programação.
+Tenho interesse em construir sistemas completos, desde a modelagem de regras de negócio no backend até interfaces modernas e funcionais no frontend.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Projetos em Destaque
 
-<div align="left">
-  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />           
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img alt="Groovy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 🏥 Voll.med Fullstack
 
-<br>
+Sistema de gestão clínica evoluído a partir de uma API REST, com foco em regras de negócio complexas e integração com IA.
 
-### 📊 Estatísticas do GitHub
+* Backend em **Spring Boot** com arquitetura em camadas
+* Autenticação com **JWT + RBAC**
+* Integração com IA (pré-diagnóstico, laudos e resumo clínico)
+* 89 testes automatizados
+* Frontend em desenvolvimento com React
+
+🔗 https://github.com/alexandrepereira23/voll.med
+
+---
+
+### 🎭 Subsolo
+
+Rede social universitária anônima com identidades temporárias (nick expira em 48h).
+
+* Projeto fullstack desenvolvido em equipe
+* Backend com **Node.js + TypeScript + Prisma**
+* Frontend com **React + Vite + Tailwind**
+* Sistema de autenticação com identidade temporária
+* Arquitetura com Docker e PostgreSQL
+
+🔗 https://github.com/PedroViana42/Subsolo
+
+---
+
+## 🛠️ Tecnologias
+
+### Backend
+
+* Java • Spring Boot • Node.js • Python
+
+### Frontend
+
+* React • TypeScript • JavaScript
+
+### Banco & Infra
+
+* PostgreSQL • MySQL • Docker
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <img height="180" src="https://readme-stats-fast.vercel.app/api?username=alexandrepereira23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Alexandre" />
   <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=alexandrepereira23&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
-### 📫 Como me encontrar
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexandre-henrique-899003304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="mailto:alexandrehenriqueepe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/alexandre.end/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
-</div>
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/alexandre-henrique-899003304/
+* 📧 Email: [alexandrehenriqueepe@gmail.com](mailto:alexandrehenriqueepe@gmail.com)
