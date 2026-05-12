@@ -1,68 +1,38 @@
-# 👋 Olá, eu sou o Alexandre Henrique
+# Alexandre Henrique
 
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvedor **Fullstack**
+Desenvolvedor Fullstack | Estudante de Ciência da Computação | Foco em Backend e Arquitetura de Sistemas
 
-Tenho interesse em construir sistemas completos, desde a modelagem de regras de negócio no backend até interfaces modernas e funcionais no frontend.
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🏥 Voll.med Fullstack
-
-Sistema de gestão clínica evoluído a partir de uma API REST, com foco em regras de negócio complexas e integração com IA.
-
-* Backend em **Spring Boot** com arquitetura em camadas
-* Autenticação com **JWT + RBAC**
-* Integração com IA (pré-diagnóstico, laudos e resumo clínico)
-* 89 testes automatizados
-* Frontend em desenvolvimento com React
-
-🔗 https://github.com/alexandrepereira23/voll.med
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-henrique-899003304/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandrehenriqueepe@gmail.com)
 
 ---
 
-### 🎭 Subsolo
+## Sobre mim
 
-Rede social universitária anônima com identidades temporárias (nick expira em 48h).
+Sou estudante de Ciência da Computação com foco em **desenvolvimento Fullstack**, com interesse especial em arquitetura de backend e sistemas bem estruturados. Gosto de construir aplicações de ponta a ponta — da modelagem de regras de negócio até interfaces funcionais e modernas.
 
-* Projeto fullstack desenvolvido em equipe
-* Backend com **Node.js + TypeScript + Prisma**
-* Frontend com **React + Vite + Tailwind**
-* Sistema de autenticação com identidade temporária
-* Arquitetura com Docker e PostgreSQL
-
-🔗 https://github.com/PedroViana42/Subsolo
+- **Backend:** Construção de APIs REST com Java/Spring Boot e Node.js, incluindo autenticação com JWT e RBAC, e integração com serviços de IA.
+- **Frontend:** Desenvolvimento de interfaces com React, Angular e TypeScript com foco em usabilidade e arquitetura limpa.
+- **Sistemas:** Base em C e C++ com interesse em resolução de problemas de baixo nível.
+- **DevOps:** Containerização de aplicações com Docker e trabalho com bancos de dados relacionais em ambientes próximos à produção.
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Tecnologias
 
-### Backend
-
-* Java • Spring Boot • Node.js • Python
-
-### Frontend
-
-* React • TypeScript • JavaScript
-
-### Banco & Infra
-
-* PostgreSQL • MySQL • Docker
+| Categoria | Tecnologias |
+|---|---|
+| **Backend** | Java, Spring Boot, Node.js, NestJS, Next.js, Python, Groovy, C, C++ |
+| **Frontend** | React, Angular, TypeScript, JavaScript |
+| **Banco & Infra** | PostgreSQL, MySQL, Docker |
 
 ---
 
-## 📊 Estatísticas
+## 📈 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=alexandrepereira23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Alexandre" />
-  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=alexandrepereira23&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180" src="https://readme-stats-fast.vercel.app/api?username=alexandrepereira23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=alexandrepereira23&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ---
-
-## 📫 Contato
-
-* 💼 LinkedIn: https://www.linkedin.com/in/alexandre-henrique-899003304/
-* 📧 Email: [alexandrehenriqueepe@gmail.com](mailto:alexandrehenriqueepe@gmail.com)
